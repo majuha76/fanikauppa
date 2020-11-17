@@ -17,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://majuha76.github.io/fanikauppa",
   "eslintConfig": {
     "extends": "react-app"
   },
